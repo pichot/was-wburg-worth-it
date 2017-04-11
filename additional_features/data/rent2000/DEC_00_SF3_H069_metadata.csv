@@ -1,0 +1,14 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+VD01,Total:
+VD02,Less than 10 percent
+VD03,10 to 14 percent
+VD04,15 to 19 percent
+VD05,20 to 24 percent
+VD06,25 to 29 percent
+VD07,30 to 34 percent
+VD08,35 to 39 percent
+VD09,40 to 49 percent
+VD10,50 percent or more
+VD11,Not computed
